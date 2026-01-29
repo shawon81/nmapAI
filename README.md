@@ -409,14 +409,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Email**: yashabalam707@gmail.com
-- **GitHub**: [@yashab-cyber]((https://github.com/shawon81))
-- **LinkedIn**: [Yashab Alam](https://www.linkedin.com/in/shawon1982/)
-- **Company**: [ZehraSec](https://www.facebook.com/chinu.jannun/)
+- **Email**: shawon16i@gmail.com
+- **GitHub**: [@Cyber-nexsus]((https://github.com/shawon81))
+- **LinkedIn**: [ASM Shamimul Islam](https://www.linkedin.com/in/shawon1982/)
+- **Company**: [Shawon](https://www.facebook.com/chinu.jannun/)
 - **WhatsApp**: [Business Channel](https://wa.me/message/TELNXZTRG3K2K1)
 
 ---
 
-**🚀 Made with ❤️ by Yashab Alam (Founder of ZehraSec) and the NMAP-AI team**
+**🚀 Made with ❤️ by ASM Shamimul Islam (Founder of Cyber-nexsus) and the NMAP-AI team**
 
 *Revolutionizing network security, one scan at a time.*
