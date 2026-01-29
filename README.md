@@ -410,10 +410,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **Email**: yashabalam707@gmail.com
-- **GitHub**: [@yashab-cyber](https://github.com/yashab-cyber)
-- **LinkedIn**: [Yashab Alam](https://www.linkedin.com/in/yashab-alam)
-- **Company**: [ZehraSec](https://www.zehrasec.com)
-- **WhatsApp**: [Business Channel](https://whatsapp.com/channel/0029Vaoa1GfKLaHlL0Kc8k1q)
+- **GitHub**: [@yashab-cyber]((https://github.com/shawon81))
+- **LinkedIn**: [Yashab Alam](https://www.linkedin.com/in/shawon1982/)
+- **Company**: [ZehraSec](https://www.facebook.com/chinu.jannun/)
+- **WhatsApp**: [Business Channel](https://wa.me/message/TELNXZTRG3K2K1)
 
 ---
 
